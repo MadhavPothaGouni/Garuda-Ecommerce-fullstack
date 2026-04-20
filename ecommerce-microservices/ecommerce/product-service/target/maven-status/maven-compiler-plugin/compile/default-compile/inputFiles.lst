@@ -1,0 +1,11 @@
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\service\ProductService.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\config\FeignClientConfig.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\config\RedisConfig.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\controller\ProductController.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\exception\InsufficientStockException.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\model\Product.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\dto\ProductDto.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\ProductServiceApplication.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\exception\GlobalExceptionHandler.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\exception\ResourceNotFoundException.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\product-service\src\main\java\com\ecommerce\repository\ProductRepository.java

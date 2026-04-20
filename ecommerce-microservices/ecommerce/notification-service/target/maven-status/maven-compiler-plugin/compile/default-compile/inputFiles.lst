@@ -1,0 +1,7 @@
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\model\NotificationLog.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\NotificationServiceApplication.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\repository\NotificationLogRepository.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\controller\NotificationController.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\service\EmailNotificationService.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\config\RabbitMQConfig.java
+C:\Users\potha\Downloads\ecommerce-microservices\ecommerce\notification-service\src\main\java\com\ecommerce\service\OrderEventConsumer.java

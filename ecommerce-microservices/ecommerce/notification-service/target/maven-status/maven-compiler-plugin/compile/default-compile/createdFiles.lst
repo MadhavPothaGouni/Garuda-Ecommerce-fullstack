@@ -1,0 +1,9 @@
+com\ecommerce\service\OrderEventConsumer.class
+com\ecommerce\model\NotificationLog$NotificationStatus.class
+com\ecommerce\controller\NotificationController.class
+com\ecommerce\service\EmailNotificationService.class
+com\ecommerce\config\RabbitMQConfig.class
+com\ecommerce\repository\NotificationLogRepository.class
+com\ecommerce\model\NotificationLog.class
+com\ecommerce\model\NotificationLog$NotificationLogBuilder.class
+com\ecommerce\NotificationServiceApplication.class

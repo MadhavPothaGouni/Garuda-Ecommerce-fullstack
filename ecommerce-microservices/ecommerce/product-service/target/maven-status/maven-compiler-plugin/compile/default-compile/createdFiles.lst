@@ -1,0 +1,17 @@
+com\ecommerce\model\Product$ProductBuilder.class
+com\ecommerce\controller\ProductController.class
+com\ecommerce\dto\ProductDto$CreateRequest$CreateRequestBuilder.class
+com\ecommerce\dto\ProductDto$Response.class
+com\ecommerce\exception\ResourceNotFoundException.class
+com\ecommerce\service\ProductService.class
+com\ecommerce\config\FeignClientConfig.class
+com\ecommerce\repository\ProductRepository.class
+com\ecommerce\exception\GlobalExceptionHandler.class
+com\ecommerce\ProductServiceApplication.class
+com\ecommerce\exception\InsufficientStockException.class
+com\ecommerce\model\Product.class
+com\ecommerce\config\RedisConfig.class
+com\ecommerce\dto\ProductDto$StockUpdateRequest.class
+com\ecommerce\dto\ProductDto.class
+com\ecommerce\dto\ProductDto$CreateRequest.class
+com\ecommerce\dto\ProductDto$Response$ResponseBuilder.class
